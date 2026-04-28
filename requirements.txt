@@ -1,4 +1,7 @@
 mlflow
 scikit-learn
 pandas
-joblibpip
+joblib
+fastapi
+uvicorn
+pydantic
